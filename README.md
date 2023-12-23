@@ -8,7 +8,7 @@
 </p>
 
 
-Welcome to my first repo for the Full Stack Web Development Specialization! This comprehensive program spans three trimesters, guiding through an immersive journey in the diverse realms of front-end and back-end technologies.
+Welcome to **My First Repo** for the Full Stack Web Development Specialization! This comprehensive program spans three trimesters, guiding through an immersive journey in the diverse realms of front-end and back-end technologies.
 
 ## **Why This Specialization?**
 
