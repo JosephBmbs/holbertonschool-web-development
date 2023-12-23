@@ -4,7 +4,7 @@
 
 <p align="center">
 
-<img src="//html_advanced/fswd.gif">
+<img src="https://miro.medium.com/v2/resize:fit:679/1*yw0TnheAGN-LPneDaTlaxw.gif">
 </p>
 
 
