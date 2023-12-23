@@ -25,7 +25,7 @@ At the completion of this project, i should be able to explain the following con
 </p>
 
 <p align="center">
-<img src="https://s3.eu-west-3.amazonaws.com/hbtn.intranet/uploads/medias/2021/4/97c8976d2ff5ff1871d7a0815b72773379df6acb.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA4MYA5JM5DUTZGMZG%2F20231223%2Feu-west-3%2Fs3%2Faws4_request&X-Amz-Date=20231223T143025Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=46afe20ef21e9fc1e33ce18b17c87f5c691bdd53f4482b94c161435dbacb12ea" alt="Web Development Image">
+<img src="./2.jpg" alt="Web Development Image">
 </p>
 
 ### General
