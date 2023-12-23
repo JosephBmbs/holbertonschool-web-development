@@ -3,8 +3,8 @@
 <h1 align="center">Full Stack Web Development Specialization</h1>
 
 <p align="center">
-<img src="https://www.careerguide.com/career/wp-content/uploads/2019/12/a6b9b58d0cbee9e5b28b9c78b6b68f78.gif" alt="Py" >
-<img src="https://www.careerguide.com/career/wp-content/uploads/2019/12/a6b9b58d0cbee9e5b28b9c78b6b68f78.gif" 	>
+
+<img src="//html_advanced/fswd.gif">
 </p>
 
 
