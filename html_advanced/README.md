@@ -21,7 +21,7 @@ Welcome to the Web Development Fundamentals project! In this hands-on learning e
 At the completion of this project, i should be able to explain the following concepts to anyone, without relying on external resources:
 
 <p align="center">
-<img src="https://s3.eu-west-3.amazonaws.com/hbtn.intranet/uploads/medias/2021/4/1f4cd63ecc3a8c03b0f4309b74aca179e225aabf.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA4MYA5JM5DUTZGMZG%2F20231223%2Feu-west-3%2Fs3%2Faws4_request&X-Amz-Date=20231223T143025Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=564a76e2dd52a666470a4f673fe64b3f46b6608df5f45a8f66a414c959e8e68d" alt="Web Development Image">
+<img src="./1.jpg" alt="Web Development Image">
 </p>
 
 <p align="center">
