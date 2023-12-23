@@ -1,9 +1,11 @@
+
+
+<h1 align="center">Full Stack Web Development Specialization</h1>
+
 <p align="center">
-<h>Full Stack Web Development Specialization</h>
 <img src="https://www.careerguide.com/career/wp-content/uploads/2019/12/a6b9b58d0cbee9e5b28b9c78b6b68f78.gif" alt="Web Development Image">
 </p>
 
-# Full Stack Web Development Specialization
 
 Welcome to my first repo for the Full Stack Web Development Specialization! This comprehensive program spans three trimesters, guiding through an immersive journey in the diverse realms of front-end and back-end technologies.
 
