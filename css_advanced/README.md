@@ -64,7 +64,7 @@ css_advanced/
 - All files must end with a **new line**
 - No external libraries allowed ❌ (No Bootstrap, Tailwind, React, etc.)
 - **Pure HTML/CSS/JS only**
-- Your code must be **W3C compliant** ✅ ([W3C Validator](https://validator.w3.org/))
+the code must be **W3C compliant** ✅ ([W3C Validator](https://validator.w3.org/))
 
 ---
 
@@ -98,18 +98,10 @@ Here are the key readings and tools to succeed:
 
 - ✅ **0. README and objectives!**
     - Write this README file ✔️
-    - Copy your `index.html` from the previous HTML project
+    - Copy `index.html` from the previous HTML project
 - 🎯 Focus on CSS structure, classes, IDs, and styling
 - 🧪 Validate your HTML and CSS with W3C
 - 📸 Follow Figma designs pixel-perfectly
-
----
-
-## 📸 Screenshots (Optional)
-
-Include screenshots of your final pages here if desired:
-
-![Preview Screenshot](https://user-images.githubusercontent.com/99132893/171412749-c7ef3e2a-6d13-4d56-b2f5-14644d25fd3b.png)
 
 ---
 
@@ -117,17 +109,6 @@ Include screenshots of your final pages here if desired:
 
 Thanks to **Holberton School** and **Guillaume Salva** for the project guidance.  
 Built with 💙 by [JosephBmbs](https://github.com/JosephBmbs) on the web development journey.
-
 ---
 
-## 🧪 Validation Tips
-
-Use:
-- [HTML Validator](https://validator.w3.org/)
-- [CSS Validator](https://jigsaw.w3.org/css-validator/)
-
-Make sure your code is **clean, semantic, and accessible**.
-
----
-
-<p align="center"><b>Happy Styling! 💅🎨</b></p>
+<p align="center"><b>Happy Styling! 🎨</b></p>
