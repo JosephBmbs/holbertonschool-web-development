@@ -1,189 +1,236 @@
-<!DOCTYPE html>
+<!DOCTYPE HTML>
 <html lang="en">
-
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="styles.css" />
-    <title>Header task	</title>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="styles.css">
+  <title>Home</title>
 </head>
-
 <body>
+  <!-- Header with logo and main navigation links -->
+  <header class="header">
+    <div>
+      <a href="#"><img class="logo" src="./images/logo.png" alt="logo"></a>
+      <div class="navsec">
+        <a href="#">COURSES</a>
+        <a href="#">PRICING</a>
+        <a href="#">LOGIN</a>
+      </div>
+    </div>
+  </header>
 
-    <header>
-		<div>
-       		<a href="#">
-            	<img src="./images/1st-img.jpg" alt="html&css&js logo">
-        	</a>
+  <main id="main">
+    <!-- Banner section with main call to action -->
+    <section class="banner">
+      <div class="top-div">
+        <h1>Get schooled</h1>
+        <p>SMILES GRIN LAUGH</p>
+        <button>REGISTER FOR FREE</button>
+      </div>
 
-        	<div>
-            	<a href="#">Link</a>
-        	    <a href="#">Link</a>
-            	<a href="#">Link</a>
-        	</div>
-		</div>
-    </header>
+      <!-- Featured instructors / pros -->
+      <div class="bottom-div">
+        <h2><span>Learn</span> from the pros</h2>
+        <div class="persons">
+          <div>
+            <img src="./images/av1.png" alt="avatar1">
+            <h3>Phillip Massey</h3>
+            <p>« Smile of the year » 2018 - 2019</p>
+          </div>
+          <div>
+            <img src="./images/av2.png" alt="avatar2">
+            <h3>Nannie Lawrence</h3>
+            <p>Best « little smile » 2017</p>
+          </div>
+          <div>
+            <img src="./images/av3.png" alt="avatar3">
+            <h3>Bruce Walters</h3>
+            <p>Best « Friend Smile » live performance 2019</p>
+          </div>
+          <div>
+            <img src="./images/av4.png" alt="avatar4">
+            <h3>Henry Hughes</h3>
+            <p>« 24h smiles » winner 2016 - 2019</p>
+          </div>
+        </div>
+      </div>
+    </section>
 
-	<main>
-        <section>
-            <div>
-                <h1>Title h1</h1>
-                <p>This is a P</p>
-                <button>Button</button>
+    <!-- Testimonial / quote section -->
+    <section class="quote">
+      <div class="quote-div">
+        <img src="./images/av5.png" alt="avatar5">
+        <div>
+          <blockquote>« Those tutorials are concise and go straight to the point.
+            I can’t think of a better place to learn smiling. And it’s so fun!</blockquote>
+          <p>Person Name</p>
+          <p>weather presenter</p>
+        </div>
+      </div>
+    </section>
+
+    <!-- Popular tutorials videos section -->
+    <section class="video">
+      <h1>Most <span>popular</span> tutorials</h1>
+
+      <div class="vids-block">
+        <!-- Single video card -->
+        <div class="video-div">
+          <img src="./images/vd1.png" alt="1st video">
+          <h2>Diagonal Smile</h2>
+          <p>Lorem ipsum dolor sit amet, consect adipiscing elit, sed do eiusmod.</p>
+          <div class="author">
+            <img src="./images/miniav.png" alt="mini avatar">
+            <h3>Phillip Massey</h3>
+          </div>
+          <div class="vid-rating">
+            <div class="stars">
+              <!-- Star rating icons -->
+              <img src="./images/pstar.png" alt="star">
+              <img src="./images/pstar.png" alt="star">
+              <img src="./images/pstar.png" alt="star">
+              <img src="./images/pstar.png" alt="star">
+              <img src="./images/wstar.png" alt="white star">
             </div>
+            <p>8 min</p>
+          </div>
+        </div>
 
-            <div>	
-                <h2>Title h2</h2>
-
-                <div>
-                    <img src="images/1st-gif.gif" alt="Image 1">
-                    <h3>1st h3</h3>
-                    <p>This the 3ed element which is P</p>
-                </div>
-
-                <div>
-                    <img src="images/1st-gif.gif" alt="Image 2">
-                    <h3>2nd h3</h3>
-                    <p>This the 3ed element which is P</p>
-                </div>
-
-                <div>
-                    <img src="images/1st-gif.gif" alt="Image 3">
-                    <h3>3ed h3</h3>
-                    <p>This the 3ed element which is P</p>
-                </div>
-
-                <div>
-                    <img src="images/1st-gif.gif" alt="Image 4">
-                    <h3>4th h3</h3>
-                    <p>This the 3ed element which is P</p>
-                </div>
+        <!-- Repeat video cards -->
+        <div class="video-div">
+          <img src="./images/vd2.png" alt="2nd video">
+          <h2>Sad Smile</h2>
+          <p>Lorem ipsum dolor sit amet, consect adipiscing elit, sed do eiusmod.</p>
+          <div class="author">
+            <img src="./images/miniav.png" alt="mini avatar">
+            <h3>Phillip Massey</h3>
+          </div>
+          <div class="vid-rating">
+            <div class="stars">
+              <img src="./images/pstar.png" alt="star">
+              <img src="./images/pstar.png" alt="star">
+              <img src="./images/pstar.png" alt="star">
+              <img src="./images/pstar.png" alt="star">
+              <img src="./images/wstar.png" alt="white star">
             </div>
+            <p>8 min</p>
+          </div>
+        </div>
 
-			<!--Quote section start's here -->
-			<section>
-                <div>
-                    <img src="images/1st-gif.gif" alt="Quote Image">
-                    <div>
-                        <q>This is a quote</q>
-                        <p>this is a P tag </p>
-                        <p>this is am additional other P</p>
-                    </div>
-                </div>
-            </section>
+        <div class="video-div">
+          <img src="./images/vd3.png" alt="3rd video">
+          <h2>Natural Smile</h2>
+          <p>Lorem ipsum dolor sit amet, consect adipiscing elit, sed do eiusmod.</p>
+          <div class="author">
+            <img src="./images/miniav.png" alt="mini avatar">
+            <h3>Phillip Massey</h3>
+          </div>
+          <div class="vid-rating">
+            <div class="stars">
+              <img src="./images/pstar.png" alt="star">
+              <img src="./images/pstar.png" alt="star">
+              <img src="./images/pstar.png" alt="star">
+              <img src="./images/pstar.png" alt="star">
+              <img src="./images/wstar.png" alt="white star">
+            </div>
+            <p>8 min</p>
+          </div>
+        </div>
 
-            <!--Video section start's here -->
-			<section>
-                <h1>Videos List</h1>
+        <div class="video-div">
+          <img src="./images/vd4.png" alt="4th video">
+          <h2>Happy Smile</h2>
+          <p>Lorem ipsum dolor sit amet, consect adipiscing elit, sed do eiusmod.</p>
+          <div class="author">
+            <img src="./images/miniav.png" alt="mini avatar">
+            <h3>Phillip Massey</h3>
+          </div>
+          <div class="vid-rating">
+            <div class="stars">
+              <img src="./images/pstar.png" alt="star">
+              <img src="./images/pstar.png" alt="star">
+              <img src="./images/pstar.png" alt="star">
+              <img src="./images/pstar.png" alt="star">
+              <img src="./images/wstar.png" alt="white star">
+            </div>
+            <p>8 min</p>
+          </div>
+        </div>
+      </div>
+    </section>
 
-                <div>
-                    <div>
-                        <img src="images/1st-gif.gif" alt="Video">
-                        <h2>Video</h2>
-                        <p>This is a P tag</p>
+    <!-- Membership features section -->
+    <section class="membership">
+      <h1><span>Free</span> membership</h1>
+      <div class="membership-container">
+        <div class="membership-block">
+          <img src="./images/smile.png" alt="smile">
+          <h2>Lorem ipsum</h2>
+          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+        </div>
+        <div class="membership-block">
+          <img src="./images/smile.png" alt="smile">
+          <h2>Lorem ipsum</h2>
+          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+        </div>
+        <div class="membership-block">
+          <img src="./images/smile.png" alt="smile">
+          <h2>Lorem ipsum</h2>
+          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+        </div>
+        <div class="membership-block">
+          <img src="./images/smile.png" alt="smile">
+          <h2>Lorem ipsum</h2>
+          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+        </div>
+      </div>
+      <button>REGISTER FOR FREE</button>
+    </section>
 
-                        <div>
-                            <img src="images/1st-gif.gif" alt="Author">
-                            <h3>Author</h3>
-                        </div>
+    <!-- Frequently Asked Questions section -->
+    <section class="faq">
+      <h1>F.A.Q.</h1>
+      <div class="faq-container">
+        <div class="faq-row">
+          <div class="faq-column">
+            <h2>How does this work?</h2>
+            <p>Lorem ipsum dolor sit amet...</p>
+          </div>
+          <div class="faq-column">
+            <h2>How does this work?</h2>
+            <p>Lorem ipsum dolor sit amet...</p>
+          </div>
+        </div>
+        <div class="faq-row">
+          <div class="faq-column">
+            <h2>How does this work?</h2>
+            <p>Lorem ipsum dolor sit amet...</p>
+          </div>
+          <div class="faq-column">
+            <h2>How does this work?</h2>
+            <p>Lorem ipsum dolor sit amet...</p>
+          </div>
+        </div>
+      </div>
+    </section>
+  </main>
 
-                        <div>
-                            <img src="images/1st-gif.gif" alt="Star">
-                            <img src="images/1st-gif.gif" alt="Star">
-                            <img src="images/1st-gif.gif" alt="Star">
-                            <img src="images/1st-gif.gif" alt="Star">
-                            <img src="images/1st-gif.gif" alt="Star">
-                        </div>
-
-                        <p>Additional P Tag</p>
-                    </div>
-
-                </div>
-            </section>
-
-			<!--Membership section start here -->
-			<section>
-				<h1>This is The Membership section </h1>
-				<div>
-					<div>
-                        <img src="images/1st-gif.gif" alt="Membership">
-                        <h3>Membership item</h3>
-                        <p>Membership Item P tag </p>
-                        <button>Button</button>
-                    </div>
-
-					<div>
-                        <img src="images/1st-gif.gif" alt="Membership">
-                        <h3>Membership</h3>
-                        <p>Membership Item P tag</p>
-                        <button>Button</button>
-                    </div>
-
-					<div>
-                        <img src="images/1st-gif.gif" alt="Membership">
-                        <h3>Membership</h3>
-                        <p>Membership Item P tag</p>
-                        <button>Button</button>
-                    </div>
-
-					<div>
-                        <img src="images/1st-gif.gif" alt="Membership">
-                        <h3>Membership</h3>
-                        <p>Membership Item P tag</p>
-                        <button>Button</button>
-                    </div>
-				</div>
-			</section>
-
-			<!--FAQ section start's here-->
-			<section>
-				<h1>FAQ</h1>
-				<div>
-                    <div>
-                        <div>
-                            <h2>FAQ item 1</h2>
-                            <p>Text for FAQ 1</p>
-                        </div>
-
-                        <div>
-                            <h2>FAQ item 2</h2>
-                            <p>Text for FAQ 2</p>
-                        </div>
-                    </div>
-
-                    <div>
-                        <div>
-                            <h2>FAQ item 3</h2>
-                            <p>Text for FAQ 3</p>
-                        </div>
-
-                        <div>
-                            <h2>FAQ item 4</h2>
-                            <p>Text for FAQ 4</p>
-                        </div>
-                    </div>
-                </div>
-			</section>
-
-			<!--Footer section start's here-->
-			<footer>
-				<div>
-					<div> 
-						<img src="images/1st-gif.gif" alt="Footer">
-
-						<div>
-							<a href="#"><img src="images/1st-gif.gif" alt="Link"></a>
-							<a href="#"><img src="images/1st-gif.gif" alt="Link"></a>
-
-							<p>Footer Text</p>
-						</div>
-					</div>
-				</div>
-			</footer>
-		
-        </section>
-    </main>
-
+  <!-- Footer with logo and social media links -->
+  <footer>
+    <div class="footer-div">
+      <div class="footer-container">
+        <div class="logo-links">
+          <img class="logo" src="./images/logo.png" alt="logo">
+          <div class="footer-links">
+            <a><img src="./images/fbic.png" alt="facebook_icon"></a>
+            <a><img src="./images/xic.png" alt="twitter_icon"></a>
+            <a><img src="./images/instic.png" alt="instagram_icon"></a>
+          </div>
+        </div>
+      </div>
+      <p>&copy; smileschool 2020</p>
+    </div>
+  </footer>
 </body>
-
 </html>
+<!-- End of HTML document -->
